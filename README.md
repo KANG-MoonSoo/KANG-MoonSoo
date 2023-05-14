@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome%My%Github!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome%To%My%Github!)
 ### 반갑습니다.
 제 이름은 강문수이고 백엔드를 공부하고 있어요!
 현재 취준생이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.
